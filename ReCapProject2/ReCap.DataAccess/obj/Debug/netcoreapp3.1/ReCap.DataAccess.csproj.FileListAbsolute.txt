@@ -1,0 +1,14 @@
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.DataAccess.deps.json
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.DataAccess.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.DataAccess.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.Core.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.Entities.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.Entities.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\bin\Debug\netcoreapp3.1\ReCap.Core.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.csprojAssemblyReference.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.csproj.CopyComplete
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.DataAccess\obj\Debug\netcoreapp3.1\ReCap.DataAccess.pdb

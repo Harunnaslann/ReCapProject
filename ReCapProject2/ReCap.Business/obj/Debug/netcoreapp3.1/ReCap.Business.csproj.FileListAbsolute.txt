@@ -1,0 +1,16 @@
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Business.deps.json
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Business.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Business.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Core.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.DataAccess.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Entities.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.DataAccess.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Entities.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\bin\Debug\netcoreapp3.1\ReCap.Core.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.csprojAssemblyReference.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.csproj.CopyComplete
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Business\obj\Debug\netcoreapp3.1\ReCap.Business.pdb

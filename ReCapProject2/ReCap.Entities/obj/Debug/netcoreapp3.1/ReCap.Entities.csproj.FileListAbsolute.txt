@@ -1,0 +1,12 @@
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\bin\Debug\netcoreapp3.1\ReCap.Entities.deps.json
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\bin\Debug\netcoreapp3.1\ReCap.Entities.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\bin\Debug\netcoreapp3.1\ReCap.Entities.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\bin\Debug\netcoreapp3.1\ReCap.Core.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\bin\Debug\netcoreapp3.1\ReCap.Core.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.csprojAssemblyReference.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.csproj.CopyComplete
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Entities\obj\Debug\netcoreapp3.1\ReCap.Entities.pdb

@@ -1,0 +1,9 @@
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\bin\Debug\netcoreapp3.1\ReCap.Core.deps.json
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\bin\Debug\netcoreapp3.1\ReCap.Core.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\bin\Debug\netcoreapp3.1\ReCap.Core.pdb
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.csprojAssemblyReference.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.AssemblyInfoInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.AssemblyInfo.cs
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.csproj.CoreCompileInputs.cache
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.dll
+C:\Users\Harun ASLAN\source\repos\ReCapProject2\ReCap.Core\obj\Debug\netcoreapp3.1\ReCap.Core.pdb
